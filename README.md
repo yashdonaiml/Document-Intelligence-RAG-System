@@ -1,1 +1,1 @@
-# DocIntel-RAG-Structure-Aware-Intelligent-Document-Q-A-System
+# Document Intelligence & RAG System
