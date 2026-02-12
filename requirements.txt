@@ -1,0 +1,19 @@
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu123
+gradio
+gradio_pdf
+pypdf
+PyPDF2
+pymupdf
+sentence-transformers
+transformers
+faiss-cpu
+numpy
+pandas
+llama-index
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+llama-cpp-python==0.2.90
+pytesseract
+pillow
+jedi>=0.16
